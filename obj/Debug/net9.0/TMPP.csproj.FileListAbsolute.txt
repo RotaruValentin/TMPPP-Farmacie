@@ -1,0 +1,14 @@
+/Users/valentic/Downloads/Colega/TMPP/TMPP/bin/Debug/net9.0/TMPP
+/Users/valentic/Downloads/Colega/TMPP/TMPP/bin/Debug/net9.0/TMPP.deps.json
+/Users/valentic/Downloads/Colega/TMPP/TMPP/bin/Debug/net9.0/TMPP.runtimeconfig.json
+/Users/valentic/Downloads/Colega/TMPP/TMPP/bin/Debug/net9.0/TMPP.dll
+/Users/valentic/Downloads/Colega/TMPP/TMPP/bin/Debug/net9.0/TMPP.pdb
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/TMPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/TMPP.AssemblyInfoInputs.cache
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/TMPP.AssemblyInfo.cs
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/TMPP.csproj.CoreCompileInputs.cache
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/TMPP.dll
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/refint/TMPP.dll
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/TMPP.pdb
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/TMPP.genruntimeconfig.cache
+/Users/valentic/Downloads/Colega/TMPP/TMPP/obj/Debug/net9.0/ref/TMPP.dll
